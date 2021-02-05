@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Everett Lewis
+tagline: Student of film and life.ß
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Aspiring media professional actively seeking internship opportunities for summer 2021. Currently a student at Tisch at NYU — graduating a semester early with two minors from Stern.
