@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Everett Lewis
-tagline: Student of film and life.ß
+tagline: Student of film and life.
 featuredImage: /assets/ev-profile.png
 cta:
   ctaText: Learn more
