@@ -3,9 +3,9 @@ template: index-page
 slug: /
 title: Everett Lewis
 tagline: Student of film and life.ß
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/ev-profile.png
 cta:
-  ctaText: Know more
+  ctaText: Learn more
   ctaLink: /about
 ---
-Aspiring media professional actively seeking internship opportunities for summer 2021. Currently a student at Tisch at NYU — graduating a semester early with two minors from Stern.
+Aspiring media professional actively seeking internship opportunities for summer 2021. Grauating from Tisch in Fall 2021 with minors at Stern. 
