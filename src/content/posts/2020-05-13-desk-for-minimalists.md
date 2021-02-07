@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: WW84 Review
-slug: /minimalists-desk
+slug: /WW84
 date: 2020-12-30 00:00
 description: sdasd
 featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
@@ -22,7 +22,7 @@ Replace above hastily-written paragraph with “studio focus-grouped superhero m
 
 
 
-# Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+<!--- Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
 
 # That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
 
@@ -66,4 +66,4 @@ Replace above hastily-written paragraph with “studio focus-grouped superhero m
 
 # Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
 
-# Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+# Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket. --->

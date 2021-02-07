@@ -6,7 +6,7 @@ title: About Me
 
 An NYU undergraduate from the suburbs of Chicago Illinois.
 
-# Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+<!---# Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
 
 # A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, # but I bth rue and lament it.
 
@@ -51,3 +51,4 @@ An NYU undergraduate from the suburbs of Chicago Illinois.
 # I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
 
 # Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+--->
