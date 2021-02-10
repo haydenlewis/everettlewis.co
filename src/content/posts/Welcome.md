@@ -4,7 +4,7 @@ title: Welcome!
 slug: /first-post
 date: 2019-07-10T00:00:00.000Z
 description: First post
-featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
+featuredImage: /assets/team-cats.jpg
 ---
 
 
