@@ -5,7 +5,7 @@ import Img from "gatsby-image"
 import { RiArrowRightSLine } from "react-icons/ri"
 import { RiFacebookBoxFill, RiTwitterFill, RiLinkedinBoxFill, RiYoutubeFill, RiInstagramFill, RiRssFill, RiGithubFill, RiTelegramFill, RiPinterestFill, RiSnapchatFill, RiSkypeFill,RiDribbbleFill, RiMediumFill, RiBehanceFill} from "react-icons/ri";
 import { FaWordpress, FaVk} from "react-icons/fa";
-
+import { SiLetterboxd } from "react-icons/si";
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
@@ -50,7 +50,9 @@ const HomePage = ({ data }) => {
         { icons.icon === "linkedin" ? (<Link to={icons.url} target="_blank"><RiLinkedinBoxFill/></Link>) : "" }
         { icons.icon === "youtube" ? (<Link to={icons.url} target="_blank"><RiYoutubeFill/></Link>) : ""}
         { icons.icon === "instagram" ? (<Link to={icons.url} target="_blank"><RiInstagramFill/></Link>) :"" }
-        { icons.icon === "rss" ? (<Link to={icons.url} target="_blank"><RiRssFill/></Link>) : "" }
+        { icons.icon === "letterboxd" ? (<Link to={icons.url} target="_blank"><SiLetterboxd/></Link>) :"" }
+        { icons.icon === "rss" ? (<Link to={icons.url} 
+        target="_blank"><RiRssFill/></Link>) : "" }
         { icons.icon === "github" ? (<Link to={icons.url} target="_blank"><RiGithubFill/></Link>) : "" }
         { icons.icon === "telegram" ? (<Link to={icons.url} target="_blank"><RiTelegramFill/></Link>) : "" }
         { icons.icon === "pinterest" ? (<Link to={icons.url} target="_blank"><RiPinterestFill/></Link>) : "" }
